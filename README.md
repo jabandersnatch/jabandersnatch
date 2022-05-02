@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Giusseppe's github stats](https://github-readme-stats.vercel.app/api?username=ErichGiusseppe)
+![Juan Andres's github stats](https://github-readme-stats.vercel.app/api?username=jabandersnatch)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErichGiusseppe&layout=compact&theme=algolia)](https://github.com/WilliamMendez/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErichGiusseppe&layout=compact&theme=algolia)](https://github.com/jabandersnatch/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErichGiusseppe&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jabandersnatch&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-| <a href="https://github.com/ErichGiusseppe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErichGiusseppe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ErichGiusseppe/github-readm…
+| <a href="https://github.com/jabandersnatch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErichGiusseppe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Juan Andres's github stats" /></a> | <a href="https://github.com/jabandersnatch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErichGiusseppe&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
