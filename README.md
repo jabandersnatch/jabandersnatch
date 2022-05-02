@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Juan Andres's github stats](https://github-readme-stats.vercel.app/api?username=jabandersnatch)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErichGiusseppe&layout=compact&theme=algolia)](https://github.com/jabandersnatch/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabandersnatch&layout=compact&theme=midnight-purple)](https://github.com/jabandersnatch/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jabandersnatch&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
