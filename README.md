@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Juan Andres's github stats](https://github-readme-stats.vercel.app/api?username=jabandersnatch&theme=midnight-purple)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jabandersnatch&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
