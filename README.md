@@ -16,6 +16,7 @@ I build products end to end: React / Next.js interfaces, Python and Node.js back
 | Project | What it is | Stack |
 |---|---|---|
 | [anthesis-challenge](https://github.com/jabandersnatch/anthesis-challenge) | Greenhouse-gas emissions tracker with REST API, charts and a 3D globe | Django 5 · DRF · Angular 20 · PostgreSQL · Docker |
+| [fifa-worldcup-2026-predictor](https://github.com/jabandersnatch/fifa-worldcup-2026-predictor) | World Cup 2026 predictor: Dixon-Coles + Elo ensemble with Monte Carlo tournament simulation and a 2022 backtest | Python · statistics · Monte Carlo |
 | [uniandes_g1_colibri](https://github.com/jabandersnatch/uniandes_g1_colibri) | RL sim-to-real for a Unitree G1 humanoid | Isaac Lab · ROS 2 · Python |
 | [engym](https://github.com/jabandersnatch/engym) | Gym environments for engineering-design problems solved with RL | Python · Gym · TensorFlow |
 | [cvrp_content](https://github.com/jabandersnatch/cvrp_content) | Vehicle-routing course projects I designed for 120+ students | Python · Pyomo |
